@@ -73,8 +73,8 @@
                         </div>
                     </div>
                     <div class="row">
-                       <div id="select" class="input-field col s12" name="tipoReclamacao">
-                            <select>
+                       <div id="select" class="input-field col s12" >
+                            <select name="tipoReclamacao">
                                 <option value="" disabled selected>Escolha uma opção</option>
                                 <option value="1">Atendimento</option>
                                 <option value="2">Prazo de reparação</option>
